@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.11.4",
+  "appInfo": {
+    "name": "pounda-amplication",
+    "description": "",
+    "version": "vp0usmol",
+    "id": "cl0fkmq2270784301s66r3jtsfy",
+    "url": "https://app.amplication.com/cl0fkmq2270784301s66r3jtsfy",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl0fkmq2270784301s66r3jtsfy",
+      "authProvider": "Jwt"
+    }
+  }
+}
